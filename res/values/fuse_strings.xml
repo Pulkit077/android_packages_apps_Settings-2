@@ -90,4 +90,7 @@
     <string name="fp_wake_unlock_title">Fingerprint behaviour</string>
     <string name="fp_wake_unlock_touch">Touch</string>
     <string name="fp_wake_unlock_press">Press</string>
+
+    <!-- Lock screen cover art -->
+    <string name="lockscreen_media_art_title">Display media cover art</string>
 </resources>
