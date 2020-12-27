@@ -116,6 +116,13 @@
     <PreferenceCategory
         android:title="@string/category_name_display_controls">
 
+    <!-- Pulse music visualizer -->
+        <Preference
+            android:key="pulse_settings"
+            android:title="@string/pulse_settings"
+            android:summary="@string/pulse_settings_summary"
+            android:fragment="com.fusion.settings.fragments.Pulse" />
+
         <Preference
             android:key="auto_rotate"
             android:title="@string/accelerometer_title"
