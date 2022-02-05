@@ -82,4 +82,7 @@
     <string name="unit_milliseconds">milliseconds</string>
     <string name="unit_pixels">dp</string>
     <string name="unit_hz">hz</string>
+
+    <!-- Per-app volume control -->
+    <string name="app_volume">App volume</string>
 </resources>
